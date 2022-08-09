@@ -20,8 +20,9 @@
 | <img src="https://avatars.githubusercontent.com/u/52314663?v=4" width=200px alt="_"/> | <img src="https://avatars.githubusercontent.com/u/53163565?v=4" width=200px alt="_"/> | <img src="https://avatars.githubusercontent.com/u/60294629?v=4" width=200px alt="_"/> | 
 |                         🫥 백엔드                         |                         💻 백엔드                         |                           🌈 프론트엔드                           |
 
-## 📅 프로젝트 기간
-2022-04 ~ 2022-07(3개월)
+## 📅 프로젝트 기간
+Back-End : 2022-04 ~ 2022-07(3개월)
+Front-End : 2022-04 ~ -ing
 
 
 ## 🏗 시스템 아키텍처
